@@ -1,0 +1,28 @@
+name: ortodoncialingual
+favicon: null
+layout_spectrum: 0.025533133186399937
+typography_spectrum: 0.6168269531335682
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18252723733894527
+  lightness: 0.46291999286040664
+  saturation: 0.730110514909029
+  rhythmicContrast: 0.29276131629012525
+purpose: []
